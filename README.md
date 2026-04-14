@@ -1,6 +1,6 @@
 # Welcome to my IT Projects portfolio! 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I’m passionate about building real, hands-on solutions across cloud infrastructure, automation, and cybersecurity. Rather than just learning concepts, I focus on actually deploying, breaking, and fixing systems—whether that’s designing AWS environments, automating with Ansible and Terraform, or diving into vulnerability management and security operations. This portfolio is a collection of those projects, each one grounded in practical, real-world problem solving. From secure VPC architectures and NAT configurations to dynamic inventories, infrastructure-as-code workflows, and security-focused projects, everything here is built with intention and tested end-to-end. Feel free to explore—this is where I turn theory into something that actually works.
 
 
 ## ⚠️ Vulnerability Management Projects
@@ -14,17 +14,14 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
-## 🤳 Connect With Me
+## Connect With Me on [Linkedin!](https://linkedin.com/in/umraffer32)
+### Thanks for stopping by!
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
+
+
+
+
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
