@@ -6,7 +6,7 @@ I’m passionate about building real, hands-on solutions across cloud infrastruc
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/umraffer32/vulnerability-management)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/umraffer32/powershell-scripts)**
 
 ## 🚨 Threat Hunting and Security Operations
 
