@@ -18,7 +18,7 @@ I’m passionate about building real, hands-on solutions across cloud infrastruc
 
 
 
-## 🌐 Connect With Me on [Linkedin!](https://linkedin.com/in/umraffer32) 🌐
+## 🌐 Connect With Me On [Linkedin!](https://linkedin.com/in/umraffer32) 🌐
 ### Thanks for stopping by!
 
 
