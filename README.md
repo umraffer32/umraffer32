@@ -1,6 +1,6 @@
 # Welcome to my IT Projects portfolio! 🔐
 
-I’m passionate about building real, hands-on solutions across cloud infrastructure, automation, and cybersecurity. Rather than just learning concepts, I focus on actually deploying, breaking, and fixing systems—whether that’s designing AWS environments, automating with Ansible and Terraform, or diving into vulnerability management and security operations. This portfolio is a collection of those projects, each one grounded in practical, real-world problem solving.
+I’m passionate about building real, hands-on solutions across cloud infrastructure, automation, and little sprinkle of cybersecurity. Rather than just learning concepts, I focus on actually deploying, breaking, and fixing systems—whether that’s designing AWS environments, automating with Ansible and Terraform, or diving into vulnerability management and security operations. This portfolio is a collection of those projects, each one grounded in practical, real-world problem solving.
 
 ## ⚙️ Cloud & Automation Projects
 - **[Configuring AWS Instances with Ansible](https://github.com/umraffer32/ansible/blob/main/README.md)**
