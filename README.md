@@ -14,7 +14,7 @@ I’m passionate about building real, hands-on solutions across cloud infrastruc
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Scattered Spider)](https://github.com/umraffer32/scattered-spider-hunt)**
 
 
 
