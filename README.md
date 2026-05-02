@@ -5,7 +5,7 @@ I’m passionate about building real, hands-on solutions across cloud infrastruc
 ## ⚙️ Cloud & Automation
 - **[Configuring AWS Instances with Ansible](https://github.com/umraffer32/ansible/blob/main/README.md)**
 - **[Deploying Terraform Infrastructure](https://github.com/umraffer32/terraform-aws/blob/main/README.md)**
-- **[Build with Terraform and Connect Ansible with AWS SSM](https://github.com/umraffer32/aws-ssm-terraform-ansible/blob/main/README.md)**
+- **[Build with Terraform and Connect Ansible with AWS SSM](https://github.com/umraffer32/aws-sso-project/blob/main/README.md)**
 
 ## ⚠️ Vulnerability Management
 
