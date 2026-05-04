@@ -15,8 +15,8 @@ I’m passionate about building real, hands-on solutions across cloud infrastruc
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Scattered Spider)](https://github.com/umraffer32/scattered-spider-hunt/blob/main/README.md)**
-- **[Threat Hunting Scenario (Signals Before the Noise)](https://github.com/umraffer32/threat-hunting/blob/main/Signals%20Before%20The%20Noise/README.md)**
+- **[Threat Hunting Scenario (Scattered Spider)](https://github.com/umraffer32/threat-hunting/tree/main/Scattered%20Spider)**
+- **[Threat Hunting Scenario (Signals Before the Noise)](https://github.com/umraffer32/threat-hunting/tree/main/Signals%20Before%20The%20Noise)**
 
 
 
